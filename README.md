@@ -1,2 +1,4 @@
 # flower-for-you
-"This flower may not wither, but without you, it has no meaning."
+```"I made this without knowing who it was for. Maybe for someone who will find it, or maybe just for the passing wind. If you find it, consider it a nameless gift."```
+---
+---
